@@ -1,3 +1,9 @@
+HINT
+The search for the app should be case insensitive. You can use the toLowerCase method to convert a string into lower case letters.
+const text = "Learn JavaScript";
+console.log(text.toLowerCase()); // learn javascript
+
+
 In this project, let's build an **App Store** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
